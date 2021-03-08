@@ -2,7 +2,7 @@
   "source": ["properties/**/*.json"],
   "platforms": {
     "scss": {
-      "transforms": ["attribute/cti", "color/css", "name/cti/kebab"],
+      "transforms": ["attribute/cti", "color/hex", "name/cti/kebab"],
       "prefix": "dst",
       "transformGroup": "scss",
       "buildPath": "build/scss/",

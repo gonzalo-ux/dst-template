@@ -1,50 +1,65 @@
 
 // Do not edit directly
-// Generated on Mon, 08 Mar 2021 22:57:41 GMT
+// Generated on Mon, 08 Mar 2021 23:48:20 GMT
 
-$dst-color-interactive-primary: #0055b9; // blue-60
-$dst-color-interactive-primary-hover: #00489d;
-$dst-color-interactive-primary-active: #003b82;
+$dst-color-interactive-primary: #0f62fe; // blue-60, primary interactive, buttons, links
+$dst-color-interactive-primary-hover: #0c4ecb; // blue-70
+$dst-color-interactive-primary-active: #093b98; // blue-80
 $dst-color-interactive-secondary: #4d5663; // gray-60
-$dst-color-interactive-secondary-hover: #404852;
-$dst-color-interactive-secondary-active: #333942;
-$dst-color-interactive-light: #e6eef8;
-$dst-color-interactive-light-active: #bfd5ee;
-$dst-color-text-default: #0d0e10;
-$dst-color-text-interactive: #0055b9;
-$dst-color-text-inverse: #e4e7ea;
-$dst-color-text-active: #00489d;
-$dst-color-ui-bkg-app: #e4e7ea;
-$dst-color-ui-bkg-light: #e4e7ea;
-$dst-color-ui-bkg-medium: #c9ced5;
-$dst-color-shade-white: #ffffff;
-$dst-color-shade-black: #000000;
-$dst-color-shade-blue-blue-00: #e6eef8;
-$dst-color-shade-blue-blue-10: #bfd5ee;
-$dst-color-shade-blue-blue-20: #99bbe3;
-$dst-color-shade-blue-blue-30: #73a2d9;
-$dst-color-shade-blue-blue-40: #4d88ce;
-$dst-color-shade-blue-blue-50: #266fc4;
-$dst-color-shade-blue-blue-60: #0055b9;
-$dst-color-shade-blue-blue-70: #00489d;
-$dst-color-shade-blue-blue-80: #003b82;
-$dst-color-shade-blue-blue-90: #002f66;
-$dst-color-shade-blue-blue-100: #00224a;
-$dst-color-shade-blue-blue-110: #00152e;
-$dst-color-shade-blue-blue-120: #000812;
-$dst-color-shade-gray-gray-00: #e4e7ea;
-$dst-color-shade-gray-gray-10: #c9ced5;
-$dst-color-shade-gray-gray-20: #aeb6c0;
-$dst-color-shade-gray-gray-30: #949dab;
-$dst-color-shade-gray-gray-40: #798597;
-$dst-color-shade-gray-gray-50: #626d7e;
-$dst-color-shade-gray-gray-60: #4d5663;
-$dst-color-shade-gray-gray-70: #404852;
-$dst-color-shade-gray-gray-80: #333942;
-$dst-color-shade-gray-gray-90: #272b32;
-$dst-color-shade-gray-gray-100: #1a1d21;
-$dst-color-shade-gray-gray-110: #0d0e10;
-$dst-color-shade-gray-gray-120: #000000;
+$dst-color-interactive-secondary-hover: #424a55; // gray-70
+$dst-color-interactive-secondary-active: #373d47; // gray-80
+$dst-color-interactive-light: #e7efff; // blue-00
+$dst-color-interactive-light-active: #cfe0ff; // blue-10
+$dst-color-interactive-disabled: #dbdde0;
+$dst-color-interactive-focus: #fc66ff;
+$dst-color-text-primary: #16191c; // gray-110
+$dst-color-text-secondary: #5f6773;
+$dst-color-text-inverse: #ffffff; // white
+$dst-color-text-disabled: #a6abb1; // Disabled elements on $dts-color-interactive-disabled
+$dst-color-ui-bkg-app: #ffffff; // white
+$dst-color-ui-bkg-light: #edeeef; // gray-00
+$dst-color-ui-bkg-medium: #dbdde0; // gray-10
+$dst-color-primitive-white: #ffffff;
+$dst-color-primitive-black: #000000;
+$dst-color-primitive-blue-10: #cfe0ff;
+$dst-color-primitive-blue-20: #b7d0ff;
+$dst-color-primitive-blue-30: #87b1ff;
+$dst-color-primitive-blue-40: #5791fe;
+$dst-color-primitive-blue-50: #2772fe;
+$dst-color-primitive-blue-60: #0f62fe;
+$dst-color-primitive-blue-70: #0c4ecb;
+$dst-color-primitive-blue-80: #093b98;
+$dst-color-primitive-blue-90: #062766;
+$dst-color-primitive-blue-100: #041d4c;
+$dst-color-primitive-blue-110: #031433;
+$dst-color-primitive-blue-120: #010a19;
+$dst-color-primitive-blue-00: #e7efff;
+$dst-color-primitive-gray-10: #dbdde0;
+$dst-color-primitive-gray-20: #caccd0;
+$dst-color-primitive-gray-30: #a6abb1;
+$dst-color-primitive-gray-40: #828992;
+$dst-color-primitive-gray-50: #5f6773;
+$dst-color-primitive-gray-60: #4d5663;
+$dst-color-primitive-gray-70: #424a55;
+$dst-color-primitive-gray-80: #373d47;
+$dst-color-primitive-gray-90: #2c3139;
+$dst-color-primitive-gray-100: #21252a;
+$dst-color-primitive-gray-110: #16191c;
+$dst-color-primitive-gray-120: #0b0c0e;
+$dst-color-primitive-gray-00: #edeeef;
+$dst-color-primitive-red-10: #ffcfcf;
+$dst-color-primitive-red-20: #ffb7b7;
+$dst-color-primitive-red-30: #ff8787;
+$dst-color-primitive-red-40: #fe5757;
+$dst-color-primitive-red-50: #fe2727;
+$dst-color-primitive-red-60: #fe0f0f;
+$dst-color-primitive-red-70: #e50e0e;
+$dst-color-primitive-red-80: #b20b0b;
+$dst-color-primitive-red-90: #7f0808;
+$dst-color-primitive-red-100: #4c0404;
+$dst-color-primitive-red-110: #330303;
+$dst-color-primitive-red-120: #190101;
+$dst-color-primitive-red-00: #ffe7e7;
 $dst-size-font-small: 0.75; // the small size of the font
 $dst-size-font-medium: 1; // the medium size of the font
 $dst-size-font-large: 2; // the large size of the font
