@@ -1,0 +1,9 @@
+{
+  "color": {
+    "font": {
+      "base": { "value": "{dst-color.interactive.primary}" },
+      "secondary": { "value": "{dst-color.interactive.primary}" },
+      "tertiary": { "value": "{dst-color.interactive.primary}" }
+    }
+  }
+}

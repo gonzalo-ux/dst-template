@@ -1,0 +1,100 @@
+{
+  "dst-color": {
+    "interactive": {
+      "primary": {
+        "category": "fill",
+        "comment": "blue-60",
+        "value": "rgba(0, 85, 185, 1)",
+        "type": "color"
+      },
+      "primary-hover": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(0, 72, 157, 1)",
+        "type": "color"
+      },
+      "primary-active": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(0, 59, 130, 1)",
+        "type": "color"
+      },
+      "secondary": {
+        "category": "fill",
+        "comment": "gray-60",
+        "value": "rgba(77, 86, 99, 1)",
+        "type": "color"
+      },
+      "secondary-hover": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(64, 72, 82, 1)",
+        "type": "color"
+      },
+      "secondary-active": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(51, 57, 66, 1)",
+        "type": "color"
+      },
+      "light": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(230, 238, 248, 1)",
+        "type": "color"
+      },
+      "light-active": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(191, 213, 238, 1)",
+        "type": "color"
+      }
+    },
+    "text": {
+      "primary": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(13, 14, 16, 1)",
+        "type": "color"
+      },
+      "interactive": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(0, 85, 185, 1)",
+        "type": "color"
+      },
+      "inverse": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(228, 231, 234, 1)",
+        "type": "color"
+      },
+      "active": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(0, 72, 157, 1)",
+        "type": "color"
+      }
+    },
+    "ui": {
+      "bkg-app": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(228, 231, 234, 1)",
+        "type": "color"
+      },
+      "bkg-light": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(228, 231, 234, 1)",
+        "type": "color"
+      },
+      "bkg-medium": {
+        "category": "fill",
+        "comment": null,
+        "value": "rgba(201, 206, 213, 1)",
+        "type": "color"
+      }
+    }
+  }
+}

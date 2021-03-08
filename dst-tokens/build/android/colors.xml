@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Mon, 08 Mar 2021 22:57:41 GMT
+-->
+<resources>
+  <color name="color_interactive_primary">#ff0055b9</color><!-- blue-60 -->
+  <color name="color_interactive_primary_hover">#ff00489d</color>
+  <color name="color_interactive_primary_active">#ff003b82</color>
+  <color name="color_interactive_secondary">#ff4d5663</color><!-- gray-60 -->
+  <color name="color_interactive_secondary_hover">#ff404852</color>
+  <color name="color_interactive_secondary_active">#ff333942</color>
+  <color name="color_interactive_light">#ffe6eef8</color>
+  <color name="color_interactive_light_active">#ffbfd5ee</color>
+  <color name="color_text_default">#ff0d0e10</color>
+  <color name="color_text_interactive">#ff0055b9</color>
+  <color name="color_text_inverse">#ffe4e7ea</color>
+  <color name="color_text_active">#ff00489d</color>
+  <color name="color_ui_bkg_app">#ffe4e7ea</color>
+  <color name="color_ui_bkg_light">#ffe4e7ea</color>
+  <color name="color_ui_bkg_medium">#ffc9ced5</color>
+  <color name="color_shade_white">#ffffffff</color>
+  <color name="color_shade_black">#ff000000</color>
+  <color name="color_shade_blue_blue_00">#ffe6eef8</color>
+  <color name="color_shade_blue_blue_10">#ffbfd5ee</color>
+  <color name="color_shade_blue_blue_20">#ff99bbe3</color>
+  <color name="color_shade_blue_blue_30">#ff73a2d9</color>
+  <color name="color_shade_blue_blue_40">#ff4d88ce</color>
+  <color name="color_shade_blue_blue_50">#ff266fc4</color>
+  <color name="color_shade_blue_blue_60">#ff0055b9</color>
+  <color name="color_shade_blue_blue_70">#ff00489d</color>
+  <color name="color_shade_blue_blue_80">#ff003b82</color>
+  <color name="color_shade_blue_blue_90">#ff002f66</color>
+  <color name="color_shade_blue_blue_100">#ff00224a</color>
+  <color name="color_shade_blue_blue_110">#ff00152e</color>
+  <color name="color_shade_blue_blue_120">#ff000812</color>
+  <color name="color_shade_gray_gray_00">#ffe4e7ea</color>
+  <color name="color_shade_gray_gray_10">#ffc9ced5</color>
+  <color name="color_shade_gray_gray_20">#ffaeb6c0</color>
+  <color name="color_shade_gray_gray_30">#ff949dab</color>
+  <color name="color_shade_gray_gray_40">#ff798597</color>
+  <color name="color_shade_gray_gray_50">#ff626d7e</color>
+  <color name="color_shade_gray_gray_60">#ff4d5663</color>
+  <color name="color_shade_gray_gray_70">#ff404852</color>
+  <color name="color_shade_gray_gray_80">#ff333942</color>
+  <color name="color_shade_gray_gray_90">#ff272b32</color>
+  <color name="color_shade_gray_gray_100">#ff1a1d21</color>
+  <color name="color_shade_gray_gray_110">#ff0d0e10</color>
+  <color name="color_shade_gray_gray_120">#ff000000</color>
+  
+</resources>
